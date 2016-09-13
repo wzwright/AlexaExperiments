@@ -1,0 +1,8 @@
+RecipeIntent how can I juggle {Number} balls
+RecipeIntent how do I juggle {Number} balls
+RecipeIntent how can I juggle {Number} ball
+RecipeIntent how do I juggle {Number} ball
+RecipeIntent how can you juggle {Number} balls
+RecipeIntent how do you juggle {Number} balls
+RecipeIntent how can you juggle {Number} ball
+RecipeIntent how do you juggle {Number} ball
